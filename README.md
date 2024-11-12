@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects, especially in web development and design.
 - 📫 How to reach me: [LinkedIn](linkedin.com/in/fatima-babakan) | [Email](babakanfatima@gmail.com) | [Telegram](t.me/webd_fa) | [Instagram](instagram.com/webd_fa/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: When I'm not debugging code, I'm "debugging" recipes in the kitchen or knitting up a new project! 🧶🍲
+- ⚡ Fun fact: After 8 years in journalism, I finally followed my childhood passion for computers and switched to programming!
 
 <!---
 FatimaBabakan/FatimaBabakan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
